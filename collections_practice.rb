@@ -54,7 +54,6 @@ end
 
 def add_s(array)
   array.each do |item|
-    binding.pry
     if array[i] != array[1]
       item << "s"
     end
