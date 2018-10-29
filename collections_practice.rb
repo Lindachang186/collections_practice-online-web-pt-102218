@@ -58,5 +58,5 @@ def add_s(array)
     if array[i] != array[1]
       item << "s"
     end
-  end  
+  end
 end
